@@ -252,13 +252,25 @@ namespace AccessibilityInsights.SharedUx.Controls
         /// <param name="e"></param>
         private void TreeViewItem_KeyDown(object sender, KeyEventArgs e)
         {
-            var evm = (sender as TreeViewItem).DataContext as EventConfigNodeViewModel;
+            var item = (sender as TreeViewItem);
+            var evm = item.DataContext as EventConfigNodeViewModel;
 
             if (e.Key == Key.Space)
             {
                 if (evm.IsEditEnabled)
                 {
-                    evm.IsChecked = !evm.IsChecked;
+                    bool oldState = evm.IsChecked ?? false;
+                    bool newState = !oldState;
+                    evm.IsChecked = newState;
+                    var peer = FrameworkElementAutomationPeer.FromElement(item);
+                    if (peer != null)
+                    {
+                        peer.RaisePropertyChangedEvent(
+                            TogglePatternIdentifiers.ToggleStateProperty,
+                            newState? ToggleState.On : ToggleState.Off,
+                            oldState? ToggleState.Off : ToggleState.On
+                        );
+                    }
                 }
                 e.Handled = true;
             }
