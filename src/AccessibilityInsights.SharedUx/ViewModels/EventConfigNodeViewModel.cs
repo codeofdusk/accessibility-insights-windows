@@ -434,10 +434,7 @@ namespace AccessibilityInsights.SharedUx.ViewModels
         {
             if (this.TextVisibility == Visibility.Visible)
             {
-                var check = (this.IsChecked.HasValue && this.IsChecked.Value)
-                    ? Resources.EventConfigNodeViewModel_ToString_checked
-                    : Resources.EventConfigNodeViewModel_ToString_unchecked;
-                return this.Header + check;
+                return this.Header;
             }
             else
             {
