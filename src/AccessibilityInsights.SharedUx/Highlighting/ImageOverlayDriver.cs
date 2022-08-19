@@ -1,4 +1,4 @@
-// Copyright (c) Microsoft. All rights reserved.
+﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 using Axe.Windows.Actions;
 using System;
@@ -67,7 +67,7 @@ namespace AccessibilityInsights.SharedUx.Highlighting
         }
 
         /// <summary>
-        /// Clear highligted elements in bitmap.
+        /// Clear highlighted elements in bitmap.
         /// </summary>
         public void ClearElements()
         {

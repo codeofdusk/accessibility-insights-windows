@@ -589,7 +589,7 @@
             "Status": 1,
             "Description": "[MSDN] Typical SubTree structure in Control mode",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -603,7 +603,7 @@
             "Status": 1,
             "Description": "[MSDN] Typical SubTree structure in Content mode",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+              "url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -619,7 +619,7 @@
             "Status": 1,
             "Description": "[MSDN] IsControlElement Property",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+              "url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -643,7 +643,7 @@
             "Status": 1,
             "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+              "url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -660,7 +660,7 @@
             "Status": 1,
             "Description": "[MSDN] Control Pattern",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+              "url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -676,7 +676,7 @@
             "Status": 1,
             "Description": "[MSDN] Properties",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+              "url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -1292,7 +1292,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Typical SubTree structure in Control mode",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -1306,7 +1306,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Typical SubTree structure in Content mode",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -1322,7 +1322,7 @@
                 "Status": 1,
                 "Description": "[MSDN] IsControlElement Property",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -1346,7 +1346,7 @@
                 "Status": 1,
                 "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                  "url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -1363,7 +1363,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Control Pattern",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -1379,7 +1379,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Properties",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -1942,7 +1942,7 @@
                   },
                   {
                     "Messages": [
-                      "UI element is not keyboard focusible though it has some actionable control patterns.",
+                      "UI element is not keyboard focusable though it has some actionable control patterns.",
                       "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                       "UI interactable Pattern: InvokePattern"
                     ],
@@ -1973,7 +1973,7 @@
                     "Status": 1,
                     "Description": "[MSDN] Typical SubTree structure in Control mode",
                     "HelpUrl": {
-                      "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                      "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                       "Type": 0
                     },
                     "MetaInfo": {
@@ -1987,7 +1987,7 @@
                     "Status": 1,
                     "Description": "[MSDN] Typical SubTree structure in Content mode",
                     "HelpUrl": {
-                      "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                      "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                       "Type": 0
                     },
                     "MetaInfo": {
@@ -2003,7 +2003,7 @@
                     "Status": 1,
                     "Description": "[MSDN] IsControlElement Property",
                     "HelpUrl": {
-                      "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                      "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                       "Type": 0
                     },
                     "MetaInfo": {
@@ -2027,7 +2027,7 @@
                     "Status": 1,
                     "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                     "HelpUrl": {
-                      "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                      "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                       "Type": 0
                     },
                     "MetaInfo": {
@@ -2044,7 +2044,7 @@
                     "Status": 1,
                     "Description": "[MSDN] Control Pattern",
                     "HelpUrl": {
-                      "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                      "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                       "Type": 0
                     },
                     "MetaInfo": {
@@ -2060,7 +2060,7 @@
                     "Status": 1,
                     "Description": "[MSDN] Properties",
                     "HelpUrl": {
-                      "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                      "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                       "Type": 0
                     },
                     "MetaInfo": {
@@ -2124,7 +2124,7 @@
                 "Status": 2,
                 "Description": "[MSDN] IsContentElement Property",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671654(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671654(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -2140,7 +2140,7 @@
                 "Status": 1,
                 "Description": "[MSDN] IsControlElement Property",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671654(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671654(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -2164,7 +2164,7 @@
                 "Status": 1,
                 "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -2183,7 +2183,7 @@
         "Items": [
           {
             "Messages": [
-              "Name doesn't exit or empty. but it is ok for this control type.(Pane(50033))"
+              "Name doesn't exit or empty. but it is OK for this control type.(Pane(50033))"
             ],
             "Status": 1,
             "Description": "[4.1.2] Name",
@@ -2239,7 +2239,7 @@
             "Status": 1,
             "Description": "[MSDN] IsContentElement Property",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -2255,7 +2255,7 @@
             "Status": 1,
             "Description": "[MSDN] IsControlElement Property",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -2281,7 +2281,7 @@
             "Status": 1,
             "Description": "[MSDN]: Based on control type, some patterns should not be supported.",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -2295,7 +2295,7 @@
             "Status": 1,
             "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -2640,7 +2640,7 @@
             "Status": 1,
             "Description": "[MSDN] Typical SubTree structure in Control mode",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -2654,7 +2654,7 @@
             "Status": 1,
             "Description": "[MSDN] Typical SubTree structure in Content mode",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -2670,7 +2670,7 @@
             "Status": 1,
             "Description": "[MSDN] IsControlElement Property",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -2694,7 +2694,7 @@
             "Status": 1,
             "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -2711,7 +2711,7 @@
             "Status": 1,
             "Description": "[MSDN] Control Pattern",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -2727,7 +2727,7 @@
             "Status": 1,
             "Description": "[MSDN] Properties",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -3832,7 +3832,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -3863,7 +3863,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -3877,7 +3877,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -3893,7 +3893,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -3917,7 +3917,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -3934,7 +3934,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -3950,7 +3950,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -4254,7 +4254,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -4285,7 +4285,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -4299,7 +4299,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -4315,7 +4315,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -4339,7 +4339,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -4356,7 +4356,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -4372,7 +4372,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -4676,7 +4676,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -4707,7 +4707,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -4721,7 +4721,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -4737,7 +4737,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -4761,7 +4761,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -4778,7 +4778,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -4794,7 +4794,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -5098,7 +5098,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -5129,7 +5129,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -5143,7 +5143,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -5159,7 +5159,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -5183,7 +5183,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -5200,7 +5200,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -5216,7 +5216,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -5520,7 +5520,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -5551,7 +5551,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -5565,7 +5565,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -5581,7 +5581,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -5605,7 +5605,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -5622,7 +5622,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -5638,7 +5638,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -5948,7 +5948,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -5979,7 +5979,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -5993,7 +5993,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6009,7 +6009,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6033,7 +6033,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6050,7 +6050,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6066,7 +6066,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6370,7 +6370,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -6401,7 +6401,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6415,7 +6415,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6431,7 +6431,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6455,7 +6455,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6472,7 +6472,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6488,7 +6488,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6792,7 +6792,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -6823,7 +6823,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6837,7 +6837,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6853,7 +6853,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6877,7 +6877,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6894,7 +6894,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -6910,7 +6910,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -7214,7 +7214,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -7245,7 +7245,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -7259,7 +7259,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -7275,7 +7275,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -7299,7 +7299,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -7316,7 +7316,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -7332,7 +7332,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -7636,7 +7636,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -7667,7 +7667,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -7681,7 +7681,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -7697,7 +7697,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -7721,7 +7721,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -7738,7 +7738,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -7754,7 +7754,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8058,7 +8058,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -8089,7 +8089,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8103,7 +8103,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8119,7 +8119,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8143,7 +8143,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8160,7 +8160,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8176,7 +8176,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8492,7 +8492,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern, ExpandCollapsePattern"
                         ],
@@ -8523,7 +8523,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsContentElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671638(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671638(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8539,7 +8539,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671638(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671638(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8563,7 +8563,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8867,7 +8867,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -8898,7 +8898,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8912,7 +8912,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8928,7 +8928,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8952,7 +8952,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8969,7 +8969,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -8985,7 +8985,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -9289,7 +9289,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -9320,7 +9320,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -9334,7 +9334,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -9350,7 +9350,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -9374,7 +9374,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -9391,7 +9391,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -9407,7 +9407,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -9481,7 +9481,7 @@
                     "Status": 1,
                     "Description": "[MSDN] IsContentElement Property",
                     "HelpUrl": {
-                      "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671654(v=vs.85).aspx",
+                      "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671654(v=vs.85).aspx",
                       "Type": 0
                     },
                     "MetaInfo": {
@@ -9497,7 +9497,7 @@
                     "Status": 1,
                     "Description": "[MSDN] IsControlElement Property",
                     "HelpUrl": {
-                      "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671654(v=vs.85).aspx",
+                      "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671654(v=vs.85).aspx",
                       "Type": 0
                     },
                     "MetaInfo": {
@@ -9521,7 +9521,7 @@
                     "Status": 1,
                     "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                     "HelpUrl": {
-                      "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                      "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                       "Type": 0
                     },
                     "MetaInfo": {
@@ -9593,7 +9593,7 @@
                 "Status": 1,
                 "Description": "[MSDN] IsContentElement Property",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -9609,7 +9609,7 @@
                 "Status": 1,
                 "Description": "[MSDN] IsControlElement Property",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -9635,7 +9635,7 @@
                 "Status": 1,
                 "Description": "[MSDN]: Based on control type, some patterns should not be supported.",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -9649,7 +9649,7 @@
                 "Status": 1,
                 "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -9668,7 +9668,7 @@
         "Items": [
           {
             "Messages": [
-              "Name doesn't exit or empty. but it is ok for this control type.(Pane(50033))"
+              "Name doesn't exit or empty. but it is OK for this control type.(Pane(50033))"
             ],
             "Status": 1,
             "Description": "[4.1.2] Name",
@@ -9723,7 +9723,7 @@
             "Status": 1,
             "Description": "[MSDN] IsContentElement Property",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -9739,7 +9739,7 @@
             "Status": 1,
             "Description": "[MSDN] IsControlElement Property",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -9765,7 +9765,7 @@
             "Status": 1,
             "Description": "[MSDN]: Based on control type, some patterns should not be supported.",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -9779,7 +9779,7 @@
             "Status": 1,
             "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -10389,7 +10389,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Typical SubTree structure in Control mode",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -10403,7 +10403,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Typical SubTree structure in Content mode",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -10419,7 +10419,7 @@
                 "Status": 1,
                 "Description": "[MSDN] IsControlElement Property",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -10443,7 +10443,7 @@
                 "Status": 1,
                 "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -10460,7 +10460,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Control Pattern",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -10476,7 +10476,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Properties",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -11316,7 +11316,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -11347,7 +11347,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -11361,7 +11361,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -11377,7 +11377,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -11401,7 +11401,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -11418,7 +11418,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -11434,7 +11434,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -11738,7 +11738,7 @@
                       },
                       {
                         "Messages": [
-                          "UI element is not keyboard focusible though it has some actionable control patterns.",
+                          "UI element is not keyboard focusable though it has some actionable control patterns.",
                           "The element should have IsKeyboardFocusable True since it has UI interactive control pattern.",
                           "UI interactable Pattern: InvokePattern"
                         ],
@@ -11769,7 +11769,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Control mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -11783,7 +11783,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Typical SubTree structure in Content mode",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -11799,7 +11799,7 @@
                         "Status": 1,
                         "Description": "[MSDN] IsControlElement Property",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -11823,7 +11823,7 @@
                         "Status": 1,
                         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -11840,7 +11840,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Control Pattern",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -11856,7 +11856,7 @@
                         "Status": 1,
                         "Description": "[MSDN] Properties",
                         "HelpUrl": {
-                          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                           "Type": 0
                         },
                         "MetaInfo": {
@@ -11919,7 +11919,7 @@
                     "Status": 2,
                     "Description": "[MSDN] IsContentElement Property",
                     "HelpUrl": {
-                      "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671654(v=vs.85).aspx",
+                      "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671654(v=vs.85).aspx",
                       "Type": 0
                     },
                     "MetaInfo": {
@@ -11935,7 +11935,7 @@
                     "Status": 1,
                     "Description": "[MSDN] IsControlElement Property",
                     "HelpUrl": {
-                      "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671654(v=vs.85).aspx",
+                      "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671654(v=vs.85).aspx",
                       "Type": 0
                     },
                     "MetaInfo": {
@@ -11959,7 +11959,7 @@
                     "Status": 1,
                     "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                     "HelpUrl": {
-                      "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                      "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                       "Type": 0
                     },
                     "MetaInfo": {
@@ -11978,7 +11978,7 @@
             "Items": [
               {
                 "Messages": [
-                  "Name doesn't exit or empty. but it is ok for this control type.(Pane(50033))"
+                  "Name doesn't exit or empty. but it is OK for this control type.(Pane(50033))"
                 ],
                 "Status": 1,
                 "Description": "[4.1.2] Name",
@@ -12033,7 +12033,7 @@
                 "Status": 1,
                 "Description": "[MSDN] IsContentElement Property",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12049,7 +12049,7 @@
                 "Status": 1,
                 "Description": "[MSDN] IsControlElement Property",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12075,7 +12075,7 @@
                 "Status": 1,
                 "Description": "[MSDN]: Based on control type, some patterns should not be supported.",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12089,7 +12089,7 @@
                 "Status": 1,
                 "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12428,7 +12428,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Typical SubTree structure in Control mode",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12442,7 +12442,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Typical SubTree structure in Content mode",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12458,7 +12458,7 @@
                 "Status": 1,
                 "Description": "[MSDN] IsControlElement Property",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12482,7 +12482,7 @@
                 "Status": 1,
                 "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12499,7 +12499,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Control Pattern",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12515,7 +12515,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Properties",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12854,7 +12854,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Typical SubTree structure in Control mode",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12868,7 +12868,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Typical SubTree structure in Content mode",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12884,7 +12884,7 @@
                 "Status": 1,
                 "Description": "[MSDN] IsControlElement Property",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12908,7 +12908,7 @@
                 "Status": 1,
                 "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12925,7 +12925,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Control Pattern",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -12941,7 +12941,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Properties",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -13286,7 +13286,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Typical SubTree structure in Control mode",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -13300,7 +13300,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Typical SubTree structure in Content mode",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -13316,7 +13316,7 @@
                 "Status": 1,
                 "Description": "[MSDN] IsControlElement Property",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -13340,7 +13340,7 @@
                 "Status": 1,
                 "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -13357,7 +13357,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Control Pattern",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -13373,7 +13373,7 @@
                 "Status": 1,
                 "Description": "[MSDN] Properties",
                 "HelpUrl": {
-                  "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
+                  "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671619(v=vs.85).aspx",
                   "Type": 0
                 },
                 "MetaInfo": {
@@ -13392,7 +13392,7 @@
         "Items": [
           {
             "Messages": [
-              "Name doesn't exit or empty. but it is ok for this control type.(Pane(50033))"
+              "Name doesn't exit or empty. but it is OK for this control type.(Pane(50033))"
             ],
             "Status": 1,
             "Description": "[4.1.2] Name",
@@ -13451,7 +13451,7 @@
             "Status": 1,
             "Description": "[MSDN] IsContentElement Property",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -13467,7 +13467,7 @@
             "Status": 1,
             "Description": "[MSDN] IsControlElement Property",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -13493,7 +13493,7 @@
             "Status": 1,
             "Description": "[MSDN]: Based on control type, some patterns should not be supported.",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -13507,7 +13507,7 @@
             "Status": 1,
             "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
             "HelpUrl": {
-              "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+              "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
               "Type": 0
             },
             "MetaInfo": {
@@ -13526,7 +13526,7 @@
     "Items": [
       {
         "Messages": [
-          "Name doesn't exit or empty. but it is ok for this control type.(Pane(50033))"
+          "Name doesn't exit or empty. but it is OK for this control type.(Pane(50033))"
         ],
         "Status": 1,
         "Description": "[4.1.2] Name",
@@ -13585,7 +13585,7 @@
         "Status": 1,
         "Description": "[MSDN] IsContentElement Property",
         "HelpUrl": {
-          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
+          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
           "Type": 0
         },
         "MetaInfo": {
@@ -13601,7 +13601,7 @@
         "Status": 1,
         "Description": "[MSDN] IsControlElement Property",
         "HelpUrl": {
-          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
+          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671639(v=vs.85).aspx",
           "Type": 0
         },
         "MetaInfo": {
@@ -13612,7 +13612,7 @@
       },
       {
         "Messages": [
-          "pane is excluded, since it would be ok to have childrens with same name and localized control type."
+          "pane is excluded, since it would be OK to have children with same name and localized control type."
         ],
         "Status": 1,
         "Description": "[4.1.2] Name: Child element should have unique name.",
@@ -13629,7 +13629,7 @@
         "Status": 1,
         "Description": "[MSDN]: Based on control type, some patterns should not be supported.",
         "HelpUrl": {
-          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+          "URL": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
           "Type": 0
         },
         "MetaInfo": {
@@ -13643,7 +13643,7 @@
         "Status": 1,
         "Description": "[MSDN]: Based on available pattern(s) of parent element, some patterns are expected.",
         "HelpUrl": {
-          "Url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
+          "url": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee671193(v=vs.85).aspx",
           "Type": 0
         },
         "MetaInfo": {

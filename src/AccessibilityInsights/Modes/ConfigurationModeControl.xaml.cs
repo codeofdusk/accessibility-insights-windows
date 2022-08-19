@@ -1,4 +1,4 @@
-// Copyright (c) Microsoft. All rights reserved.
+﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 using AccessibilityInsights.CommonUxComponents.Controls;
 using AccessibilityInsights.CommonUxComponents.Dialogs;
@@ -35,7 +35,7 @@ namespace AccessibilityInsights.Modes
         }
 
         /// <summary>
-        /// App configation
+        /// App configuration
         /// </summary>
         public static ConfigurationModel Configuration
         {
@@ -224,7 +224,7 @@ namespace AccessibilityInsights.Modes
         }
 
         /// <summary>
-        /// Hide control and hilighter
+        /// Hide control and highlighter
         /// </summary>
         public void HideControl()
         {
@@ -232,7 +232,7 @@ namespace AccessibilityInsights.Modes
         }
 
         /// <summary>
-        /// Show control and hilighter
+        /// Show control and highlighter
         /// - if connection is true, routes to connection information
         /// </summary>
         public async void ShowControl(bool connection)

@@ -1,4 +1,4 @@
-// Copyright (c) Microsoft. All rights reserved.
+﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 using AccessibilityInsights.Extensions.Helpers;
 using Microsoft.Web.WebView2.Core;
@@ -184,7 +184,7 @@ namespace AccessibilityInsights.Extensions.AzureDevOps.FileIssue
         }
 
         /// <summary>
-        /// Navigates to the given url
+        /// Navigates to the given URL
         /// </summary>
         /// <param name="url"></param>
         private void Navigate(Uri url) => fileIssueBrowser.Source = url;

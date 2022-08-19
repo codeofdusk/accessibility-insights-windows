@@ -1,4 +1,4 @@
-// Copyright (c) Microsoft. All rights reserved.
+﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 using AccessibilityInsights.Extensions.AzureDevOps;
 using AccessibilityInsights.Extensions.AzureDevOps.Models;
@@ -155,7 +155,7 @@ namespace AccessibilityInsights.Extensions.AzureDevOpsTests
         }
 
         /// <summary>
-        /// returns info object with both server url and last usage set
+        /// returns info object with both server URL and last usage set
         /// </summary>
         private ConnectionInfo GetConnectionInfo(int i, bool hasProject = false, int? offsetInTicks = null)
         {

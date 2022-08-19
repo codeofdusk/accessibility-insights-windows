@@ -1,4 +1,4 @@
-// Copyright (c) Microsoft. All rights reserved.
+﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 using Axe.Windows.Core.Bases;
 using System.Collections.Generic;
@@ -12,7 +12,7 @@ using System.Windows.Media;
 namespace AccessibilityInsights.SharedUx.Highlighting
 {
     /// <summary>
-    /// Base functionality and data for window-based highlighers
+    /// Base functionality and data for window-based highlighters
     /// </summary>
     public abstract class WindowHighlighterBase
     {

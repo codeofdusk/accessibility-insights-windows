@@ -21,7 +21,7 @@ namespace UITests
 
         readonly string TestFilePath = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), "TestFiles");
 
-        // These values shold only change in response to a change in Axe.Windows or WildlifeManager
+        // These values should only change in response to a change in Axe.Windows or WildlifeManager
         const int AutomatedChecks_NonFrameworkErrorCount = 12;
         const int AutomatedChecks_FrameworkErrorCount = 3;
         const int UIATree_FailedResultsCount = 2;
@@ -89,7 +89,7 @@ namespace UITests
         {
             driver.TestMode.ResultsInUIATree.ValidateResults(UIATree_FailedResultsCount, UIATree_AllResultsCount, UIATree_FailedFrameworksResultsCount, testCase.UIATree_AllFrameworkResultsCount);
             driver.TestMode.ResultsInUIATree.SwitchToDetailsTab();
-            driver.TestMode.ResultsInUIATree.ValidateDetails("InvokePattern", "Name: Ok", 3, 10);
+            driver.TestMode.ResultsInUIATree.ValidateDetails("InvokePattern", "Name: OK", 3, 10);
             driver.TestMode.ResultsInUIATree.ValidateTree("pane 'Desktop 1' has failed test results in descendants.", 16);
         }
 

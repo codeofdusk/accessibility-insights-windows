@@ -1,4 +1,4 @@
-// Copyright (c) Microsoft. All rights reserved.
+﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 using System.Windows;
 
@@ -91,7 +91,8 @@ namespace AccessibilityInsights.SharedUx.Settings
             if (this.Version == null || string.CompareOrdinal(this.Version, AppLayout.CurrentVersion) != 0)
             {
                 // for now we enforce the layout to be always be default if the version mismatch.
-                // it will reduce the unnecessary crashes or noize. but it may lose the previous layout info.
+                // it will reduce the unnecessary crashes or
+                //  . but it may lose the previous layout info.
                 // we may bear the lose of previous layout for now.
                 this.Top = top;
                 this.Left = left;

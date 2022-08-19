@@ -1,4 +1,4 @@
-// Copyright (c) Microsoft. All rights reserved.
+﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 using AccessibilityInsights.Extensions.Helpers;
 using AccessibilityInsights.Extensions.Interfaces.Upgrades;
@@ -24,7 +24,7 @@ namespace AccessibilityInsights.Extensions.GitHubAutoUpdate
     /// set of information (each ChannelInfo object holds the data for one channel). The
     /// code defaults to the "default" channel, but this can be overridden by the caller.
     ///
-    /// A note about timing: Due to the way that extensions get loaded, our ctor may get
+    /// A note about timing: Due to the way that extensions get loaded, our constructor may get
     /// called some time before the app requests the upgrade status. Since we need to make
     /// a web call to get the data, we take advantage of that extra time to fetch the data
     /// from the web. We do that in a separate Task to prevent blocking the app. That means,
@@ -169,7 +169,7 @@ namespace AccessibilityInsights.Extensions.GitHubAutoUpdate
         }
 
         /// <summary>
-        /// Production ctor - MUST be a default ctor or extensions will break
+        /// Production constructor - MUST be a default constructor or extensions will break
         /// </summary>
 #pragma warning disable RS0034 // Exported parts should have [ImportingConstructor]
         public AutoUpdate() :
@@ -180,7 +180,7 @@ namespace AccessibilityInsights.Extensions.GitHubAutoUpdate
 #pragma warning restore RS0034 // Exported parts should have [ImportingConstructor]
 
         /// <summary>
-        /// Unit testable ctor - allows dependency injection for testing
+        /// Unit testable constructor - allows dependency injection for testing
         /// </summary>
         /// <param name="releaseChannelProvider">Provides the client's current release channel</param>
         /// <param name="installedVersionProvider">Method that provides the installed version string</param>

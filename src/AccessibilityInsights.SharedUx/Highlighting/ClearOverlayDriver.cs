@@ -1,4 +1,4 @@
-// Copyright (c) Microsoft. All rights reserved.
+﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 using AccessibilityInsights.SharedUx.Telemetry;
 using AccessibilityInsights.Win32;
@@ -42,7 +42,7 @@ namespace AccessibilityInsights.SharedUx.Highlighting
         }
 
         /// <summary>
-        /// Show Toast on top of the hiligher window
+        /// Show Toast on top of the highlighter window
         /// </summary>
         public void ShowToast(UserControl toast)
         {
@@ -116,7 +116,7 @@ namespace AccessibilityInsights.SharedUx.Highlighting
         }
 
         /// <summary>
-        /// Clear highligted elements in bitmap.
+        /// Clear highlighted elements in bitmap.
         /// Overlay highlighter needs element than Id. please see comment above at class definition.
         /// </summary>
         public void Clear()

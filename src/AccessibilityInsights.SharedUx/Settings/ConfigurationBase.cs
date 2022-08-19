@@ -1,4 +1,4 @@
-// Copyright (c) Microsoft. All rights reserved.
+﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 using AccessibilityInsights.SharedUx.Telemetry;
 using Axe.Windows.Core.Misc;
@@ -25,7 +25,7 @@ namespace AccessibilityInsights.SharedUx.Settings
         public string AppVersion { get; set; }
 
         /// <summary>
-        /// Protected initial ctor--sets version to null
+        /// Protected initial constructor--sets version to null
         /// </summary>
         /// <param name="version">The value for version (can be null)</param>
         protected ConfigurationBase() : this(null)
@@ -33,7 +33,7 @@ namespace AccessibilityInsights.SharedUx.Settings
         }
 
         /// <summary>
-        /// Protected initial ctor--caller provides the version for the config object
+        /// Protected initial constructor--caller provides the version for the config object
         /// </summary>
         /// <param name="version">The value for version (can be null)</param>
         protected ConfigurationBase(string version)

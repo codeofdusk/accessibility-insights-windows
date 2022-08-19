@@ -1,4 +1,4 @@
-// Copyright (c) Microsoft. All rights reserved.
+﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 using AccessibilityInsights.CommonUxComponents.Controls;
 using AccessibilityInsights.Extensions.Interfaces.IssueReporting;
@@ -97,7 +97,7 @@ namespace AccessibilityInsights.SharedUx.ViewModels
         public string SnippetLink { get; }
 
         /// <summary>
-        /// Name of Glypth for Fabric Icon
+        /// Name of Glyph for Fabric Icon
         /// </summary>
         public FabricIcon GlyphName { get; }
 

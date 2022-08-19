@@ -1,4 +1,4 @@
-// Copyright (c) Microsoft. All rights reserved.
+﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 using AccessibilityInsights.SharedUx.Utilities;
 using Axe.Windows.Core.Bases;
@@ -35,7 +35,7 @@ namespace AccessibilityInsights.SharedUx.Highlighting
         ImageBrush ib;
 
         /// <summary>
-        /// Sets highlighter button staste
+        /// Sets highlighter button states
         /// </summary>
         readonly Action<bool> setHighlightBtnState;
 
@@ -79,7 +79,7 @@ namespace AccessibilityInsights.SharedUx.Highlighting
 
         /// <summary>
         /// Set button click handler
-        /// if it is set to nall, button would not be shown on highlighter.
+        /// if it is set to null, button would not be shown on highlighter.
         /// </summary>
         /// <param name="h"></param>
         public void SetButtonClickHandler(MouseButtonEventHandler h)
@@ -114,7 +114,7 @@ namespace AccessibilityInsights.SharedUx.Highlighting
         }
 
         /// <summary>
-        /// Set highlighter background imaage
+        /// Set highlighter background image
         /// </summary>
         /// <param name="bmp"></param>
         public void SetBackground(Bitmap bmp)

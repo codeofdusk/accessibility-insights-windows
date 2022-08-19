@@ -1,4 +1,4 @@
-// Copyright (c) Microsoft. All rights reserved.
+﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
 using AccessibilityInsights.CommonUxComponents.Dialogs;
 using AccessibilityInsights.Extensions.AzureDevOps.FileIssue;
@@ -28,7 +28,7 @@ namespace AccessibilityInsights.Extensions.AzureDevOps
         internal static IDevOpsIntegration DevOpsIntegration { get; private set; }
 
         /// <summary>
-        /// Production ctor
+        /// Production constructor
         /// </summary>
 #pragma warning disable RS0034 // Exported parts should have [ImportingConstructor]
         public AzureBoardsIssueReporting()
@@ -37,7 +37,7 @@ namespace AccessibilityInsights.Extensions.AzureDevOps
         }
 
         /// <summary>
-        /// "Intermediate" production ctor
+        /// "Intermediate" production constructor
         /// </summary>
         private AzureBoardsIssueReporting(IDevOpsIntegration devOpsIntegration)
             : this(devOpsIntegration, new FileIssueHelpers(devOpsIntegration))
@@ -45,7 +45,7 @@ namespace AccessibilityInsights.Extensions.AzureDevOps
         }
 
         /// <summary>
-        /// Unit testable ctor
+        /// Unit testable constructor
         /// </summary>
         internal AzureBoardsIssueReporting(IDevOpsIntegration devOpsIntegration, FileIssueHelpers fileIssueHelpers)
         {
